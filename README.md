@@ -4,7 +4,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-essam-mogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-essam-mogy" height="30" width="40" /></a>
+|  
 <a href="https://www.hackerrank.com/ahmed_e_mogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_e_mogy" height="30" width="40" /></a>
+|
+<a href="https://g.dev/ahmed_essam" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v5ab6fd0ad9c02b131b4d387b5751ac2c3616478c6dd65b5e931f0805efa1009c/developers/images/lockup-new.svg" alt="ahmed_essam" height="200" width="200" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

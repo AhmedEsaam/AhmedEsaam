@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
-<h3 align="center">A passionate embedded software engineer from Egypt.</h3>
+<h3 align="center">A Passionate Android Automotive Engineer from Egypt.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-essam-mogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-essam-mogy" height="30" width="40" /></a>
